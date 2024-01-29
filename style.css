@@ -1,6 +1,9 @@
 body {
   min-height: 2000px;
 }
+.display-4 {
+  font-weight: 300;
+}
 .jumbotron {
   padding-top: 6rem;
   background-color: #ead7bb;
